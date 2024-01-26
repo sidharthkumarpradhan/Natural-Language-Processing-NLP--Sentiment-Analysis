@@ -1,0 +1,4 @@
+torch==1.9.1
+torchtext==0.10.1
+matplotlib==3.4.3
+nltk==3.6.3
